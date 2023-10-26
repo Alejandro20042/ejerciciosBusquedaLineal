@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejerciciosBusquedaLineal", "ejerciciosBusquedaLineal\ejerciciosBusquedaLineal.csproj", "{4359C145-08DD-492B-94A7-12E627C7BE8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4359C145-08DD-492B-94A7-12E627C7BE8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4359C145-08DD-492B-94A7-12E627C7BE8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4359C145-08DD-492B-94A7-12E627C7BE8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4359C145-08DD-492B-94A7-12E627C7BE8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C974614A-7642-49E9-8A53-A7E6696C56FC}
+	EndGlobalSection
+EndGlobal
